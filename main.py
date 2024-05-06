@@ -8,5 +8,3 @@ print(n2)
 print(n3)
 print(n4)
 
-result = n4 * 1000 + n3 * 100 + n2 * 10 + n1
-print(result)
